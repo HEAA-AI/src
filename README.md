@@ -1,4 +1,4 @@
-# OpenFHE Code Components
+# HEAA AI Code Components
 
 ```mermaid
 flowchart BT
